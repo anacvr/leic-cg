@@ -2,7 +2,7 @@
 Practical Exercises and Project for Computer Graphics Class (FEUP - LEIC 22/23)
 
 ## Practical Classes Exercises
-* General [README]() for the practical classes
+* General [README](README-tps.md) for the practical classes
 * [TP1]()
 * [TP2]()
 * [TP3]()
