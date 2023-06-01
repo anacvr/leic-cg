@@ -19,7 +19,7 @@ Practical Exercises and Project for Computer Graphics Class (FEUP - LEIC 22/23)
 **Grade: --**
 
 ## Project
-* Project Proposal
+* Project Proposal ([en](docs/CG-Project-2023.pdf)/[pt](docs/CG-Projeto-2023.pdf))
 * [Project README](project/README.md)
 
 **Grade: --**

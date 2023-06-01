@@ -1,0 +1,18 @@
+CG Project Improvements
+
+Corrections:
+
+* Speed Factor not working (if you increase then decrease, you see the bird move faster anyways; if you increase with the bird not moving it's the same as nothing)
+* If you keep pressing "P" the bird goes below the terrain
+* The elongated sphere could receive the elongated factor as a parameter
+* When you reset the bird, the bird goes to the origin of the axis instead of depending on the checkbox (the reset could take the bird to the origin or the terrain origin)
+
+
+More optional improvements:
+
+* Professor said that the bird should perhaps bat its wings even when the velocity is 0 (because he is flying)
+* The bird's velocity is super fast even when the Speed Factor is at 1
+* Change the movement of the bird picking up the egg to something similiar to the one of the drop egg, so that implements the time passed since the beginning of the animation and does not take in consideration the refresh rate
+* Shader to mix a little the vertices of the nest. Or find another shape better than the torus
+* Shader to simulate wind
+
