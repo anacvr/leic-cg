@@ -10,7 +10,6 @@ Practical Exercises and Project for Computer Graphics Class (FEUP - LEIC 22/23)
 | Miguel Gonçalves | 201905873 | up201905873@edu.fe.up.pt |
 
 ## Practical Classes Exercises
-* General [README](README-tps.md) for the practical classes
 * [TP1](tp1/README.md)
 * [TP2](tp2/README.md)
 * [TP3](tp3/README.md)
