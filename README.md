@@ -16,13 +16,11 @@ Practical Exercises and Project for Computer Graphics Class (FEUP - LEIC 22/23)
 * [TP4](tp4/README.md)
 * [TP5](tp5/README.md)
 
-**Grade: --**
-
 ## Project
 * Project Proposal ([en](docs/CG-Project-2023.pdf)/[pt](docs/CG-Projeto-2023.pdf))
 * [Project README](project/README.md)
 
-**Grade: --**
+**Grade: 18.3**
 
 ---
 > Ana Cristina Ramos (up201904969)
